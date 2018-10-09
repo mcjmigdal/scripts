@@ -5,6 +5,7 @@ import gzip
 
 if not len(argv) == 2:
     print("""Usage: fastq2fasta.py fastq.gz""")
+    exit(1)
 
 try:
     with gzip.open(argv[1], 'rt') as handle:
