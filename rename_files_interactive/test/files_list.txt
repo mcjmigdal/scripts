@@ -1,0 +1,2 @@
+test/plik1
+test/plik2
