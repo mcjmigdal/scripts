@@ -1,0 +1,4 @@
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
